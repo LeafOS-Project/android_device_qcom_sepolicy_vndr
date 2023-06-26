@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2937b266_9f8a29cd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000017
+      },
+      "writtenOn": "2023-06-26T13:11:25Z",
+      "side": 1,
+      "message": "https://haste.aicp-rom.com/icorocociv.cs",
+      "revId": "3adcd1f907601bf85d03454b34c010a74e98188a",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
